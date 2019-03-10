@@ -160,7 +160,15 @@ ma
 
 @media (max-width: 1028px) {
 
-  #title {
+  .navbar-toggler-icon, .nav-link, p, em {
+    font-size: 2rem;
+  }
+
+  .feature-title {
+    font-size: 3rem;
+  }
+
+  #title .row {
     text-align: center;
   }
 
